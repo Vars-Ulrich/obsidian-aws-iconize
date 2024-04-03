@@ -6,6 +6,114 @@ export interface IconPack {
 }
 
 const iconPacks = {
+  analytics: {
+  name: 'analytics',
+  displayName: 'Analytics',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Analytics.zip',
+},
+appIntegration: {
+  name: 'app-integration',
+  displayName: 'App Integration',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/App-Integration.zip',
+},
+blockchain: {
+  name: 'blockchain',
+  displayName: 'Blockchain',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Blockchain.zip',
+},
+businessApplications: {
+  name: 'business-applications',
+  displayName: 'Business Applications',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Business-Applications.zip',
+},
+cloudFinancialManagement: {
+  name: 'cloud-financial-management',
+  displayName: 'Cloud Financial Management',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Cloud-Financial-Management.zip',
+},
+compute: {
+  name: 'compute',
+  displayName: 'Compute',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Compute.zip',
+},
+containers: {
+  name: 'containers',
+  displayName: 'Containers',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Containers.zip',
+},
+customerEnablement: {
+  name: 'customer-enablement',
+  displayName: 'Customer Enablement',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Customer-Enablement.zip',
+},
+database: {
+  name: 'database',
+  displayName: 'Database',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Database.zip',
+},
+developerTools: {
+  name: 'developer-tools',
+  displayName: 'Developer Tools',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Developer-Tools.zip',
+},
+endUserComputing: {
+  name: 'end-user-computing',
+  displayName: 'End User Computing',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/End-User-Computing.zip',
+},
+frontEndWebMobile: {
+  name: 'front-end-web-mobile',
+  displayName: 'Front End Web Mobile',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Front-End-Web-Mobile.zip',
+},
+games: {
+  name: 'games',
+  displayName: 'Games',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Games.zip',
+},
+generalIcons: {
+  name: 'general-icons',
+  displayName: 'General Icons',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/General-Icons.zip',
+},
+internetOfThings: {
+  name: 'internet-of-things',
+  displayName: 'Internet of Things',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Internet-of-Things.zip',
+},
+machineLearning: {
+  name: 'machine-learning',
+  displayName: 'Machine Learning',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Machine-Learning.zip',
+},
+managementGovernance: {
+  name: 'management-governance',
+  displayName: 'Management Governance',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/iconPacks/Management-Governance.zip',
+},
+mediaServices: {
+  name: 'media-services',
+  displayName: 'Media Services',
+  path: '',
+  downloadLink: 'https://github.com/Vars-Ulrich/obsidian-aws-iconize/blob/main/icon
+},
   faBrands: {
     name: 'font-awesome-brands',
     displayName: 'FontAwesome Brands',
